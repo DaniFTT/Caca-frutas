@@ -2,7 +2,7 @@
 ### Caça Niquel desenvolvido para o trabalho de N1 do 2º Bimestre de POO
 
 ### Video Gif:
-![Project Video](https://github.com/DaniFTT/netflix-clone/blob/main/src/assets/videos/clone-netflix-vi.gif)
+![Project Video](https://github.com/DaniFTT/Caca-frutas/blob/master/Assets/video.gif)
 
 ### Images:
 
